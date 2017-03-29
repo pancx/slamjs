@@ -8,7 +8,7 @@ JavaScript code for the [Slam lecture](https://www.youtube.com/watch?v=B2qzYCeT9
 **find cylinders**</br>
 ![cylinders](https://github.com/pancx/slamjs/blob/master/Unit-A/scan7.png "cylinders")
 </br>
-## Unit-A
+## Unit-F
 **Extended Kalman Filter Algorithm**</br>
 ## License
 
